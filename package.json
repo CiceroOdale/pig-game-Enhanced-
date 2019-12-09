@@ -1,0 +1,24 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "Enhancing pig game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "babel javascript -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiceroOdale/pig-game-Enhanced-.git"
+  },
+  "author": "Tech Savvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiceroOdale/pig-game-Enhanced-/issues"
+  },
+  "homepage": "https://github.com/CiceroOdale/pig-game-Enhanced-#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
