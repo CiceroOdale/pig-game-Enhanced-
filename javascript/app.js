@@ -39,10 +39,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 
 
 
-
-
-
-
 // document.querySelector('#current-' + activePlayer).textContent = dice;
 /****ANOTHER ALTERNATIVE*****
 * document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
